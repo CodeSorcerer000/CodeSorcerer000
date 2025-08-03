@@ -41,7 +41,7 @@ Python       1 hr 30 mins    ██░░░░░░░░░░░   8.60%
 ### 📫 How to reach me
 - 📧 Email: sasinduinduwara058@gmail.com
 - 💼 LinkedIn: [sasindu induwara](https://www.linkedin.com/in/sasindu-induwara-5b57b5332) 
-- 🌐 Website: [yourdomain.com](https://yourdomain.com)
+- 🌐 Website: [codesorcerer000.netlify.app](https://codesorcerer000.netlify.app/)
 
 ---
 ⭐️ From [CodeSorcerer000](https://github.com/yourusername)
