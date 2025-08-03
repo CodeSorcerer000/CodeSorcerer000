@@ -44,4 +44,4 @@ Python       1 hr 30 mins    ██░░░░░░░░░░░   8.60%
 - 🌐 Website: [yourdomain.com](https://yourdomain.com)
 
 ---
-⭐️ From [sasindu induwar](https://github.com/yourusername)
+⭐️ From [CodeSorcerer000](https://github.com/yourusername)
