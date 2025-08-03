@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm sasindu induwar
 
 [![Website](https://img.shields.io/badge/Website-YourDomain.com-blue?style=flat-square&logo=google-chrome)](https://yourdomain.com)
-[![LinkedIn](https://www.linkedin.com/in/sasindu-induwara-5b57b5332 )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sasindu-induwara-5b57b5332/)
 
 ## 🚀 About Me
 Software developer passionate about creating elegant solutions to complex problems. I specialize in web development and open source contributions.
