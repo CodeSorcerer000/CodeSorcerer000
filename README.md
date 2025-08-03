@@ -39,8 +39,8 @@ Python       1 hr 30 mins    ██░░░░░░░░░░░   8.60%
 - Building [Project Name]
 
 ### 📫 How to reach me
-- 📧 Email: your.email@domain.com
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourusername)
+- 📧 Email: sasinduinduwara058@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sasindu-induwara-5b57b5332 
 - 🌐 Website: [yourdomain.com](https://yourdomain.com)
 
 ---
